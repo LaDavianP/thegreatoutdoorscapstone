@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://www.cuddlynest.com/blog/wp-content/uploads/2023/04/guide_to_yosemite_featured_image.jpg");
+    background-color: #cccccc;
+    background-image: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: darkseagreen;
+    color: rgb(19, 139, 29);
+    font-family: Arial verdana, serif;
+    text-align: center;
+    vertical-align: top;
+   }
+
+   .card{
+    width: 29vw;
+    border: 1px solid black;
+    margin: 0.1em 0.1em 0 0;
+    display: inline-block;
+    vertical-align: top;
+    min-height: 26vh;
+    font-size: 4vh
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    margin: 1em;
+    color: white;
+    background-color: rgb(49, 100, 49);
+    padding: 1em;
+    border-radius: 1em;;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(125, 125, 71);
+}
+
+select{
+    margin: 1em;
+    padding: 1em;
+    border-radius: 3em;
+}
+/* option{
+    padding: 1em;
+    margin: 1em;
+} */   
